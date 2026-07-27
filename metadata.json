@@ -1,0 +1,6 @@
+{
+  "name": "SimpleSheet",
+  "description": "Lightweight, browser-based spreadsheet application with formulas, cell formatting, CSV import/export, local storage auto-save, and Google Drive integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
